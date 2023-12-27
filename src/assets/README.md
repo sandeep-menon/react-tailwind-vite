@@ -1,0 +1,1 @@
+Place your images here, accessible only to components. Not served to public.
