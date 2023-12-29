@@ -7,7 +7,12 @@ Barebones React, Tailwind and Vite starter template.
 ### Introduction
 This is a basic starter template bundling React and Tailwind with Vite. Includes minimal code so that you can quickly start building your project.
 
-### How to use
+### How to use - Shortcut
+![image](https://github.com/sandeep-menon/react-tailwind-vite/assets/28977810/b72b8a15-7381-4acf-928f-bb55c44c99a6)
+
+![image](https://github.com/sandeep-menon/react-tailwind-vite/assets/28977810/0b8d78f4-cacc-403c-8817-a933db7f8b65)
+
+### How to use - Old School
 1. Clone this repository. (Give it a ⭐ while you are at it)
 
 ```
